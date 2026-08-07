@@ -192,14 +192,6 @@ If this repository helps you, don't forget to:
 
 ---
 
-# 👨‍💻 Author
-
-**Sunny Raj Jha**
-
-💼 Full Stack Java Developer | Backend Developer | IAM Engineer
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
