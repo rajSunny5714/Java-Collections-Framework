@@ -3,6 +3,7 @@ package List;
 import java.util.Scanner;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+
 public class CopyOnWriteArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

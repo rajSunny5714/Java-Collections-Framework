@@ -26,3 +26,4 @@ public class SynchronizedList1 {
         System.out.println(list);
     }
 }
+

@@ -16,7 +16,7 @@ public class SynchronizedList {
         }
         synchronized (list) {
             for (int num : list) {
-                System.out.print(num + " ");
+                System.out.print(num+" ");
             }
         }
     }
